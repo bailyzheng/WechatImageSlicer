@@ -1,8 +1,8 @@
 package com.samon.wechatimageslicer.slicer;
 
 import android.graphics.Bitmap;
-import android.support.annotation.MainThread;
-import android.support.annotation.WorkerThread;
+import androidx.annotation.MainThread;
+import androidx.annotation.WorkerThread;
 
 import java.util.ArrayList;
 import java.util.List;
